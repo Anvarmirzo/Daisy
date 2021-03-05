@@ -2,4 +2,4 @@
 
 
 static for portfolio
-link: https://anvarmirzo.github.io/daisy/
+link: https://anvarmirzo.github.io/Daisy/
